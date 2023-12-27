@@ -17,3 +17,9 @@ Remove null values, replace with 0 to be able to calculate.
 Calculate the basic values of data for in-depth analysis.
 Use pySpark to write Spark jobs and process data efficiently.
 Data after processing is saved to Data Warehouse is MySQL for storage and in-depth analysis.
+
+# CLEAN DATA
+![image](https://github.com/HoangQuocPhu/ETL-PIPELINE/assets/117524012/1c4bdb12-4bac-455e-bfbe-51c7ff3b2709)
+![image](https://github.com/HoangQuocPhu/ETL-PIPELINE/assets/117524012/3e0c1f2e-f60f-4f5b-ae46-92b10f0ee9fa)
+
+
